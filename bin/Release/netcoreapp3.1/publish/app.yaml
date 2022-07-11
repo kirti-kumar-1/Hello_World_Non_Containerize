@@ -1,0 +1,6 @@
+runtime: aspnetcore
+env: flex
+
+
+network:
+  name: mynetwork
